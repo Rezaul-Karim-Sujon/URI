@@ -1,0 +1,19 @@
+#include <bits/stdc++.h>
+using namespace std;
+int main()
+{
+    int a,b,c,d,e;
+    cin >> a >> b >> c >> d >> e;
+    if(a<=b && b<=c && c<=d && d<=e)
+    {
+        cout << "C" << endl;
+    }
+    else if(a>=b && b>=c && c>=d && d>=e)
+    {
+        cout << "D" << endl;
+    }
+    else
+        cout << "N" << endl;
+        sort(a,b,c,d,e);
+    return 0;
+}
