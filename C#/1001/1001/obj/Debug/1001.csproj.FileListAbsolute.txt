@@ -1,0 +1,5 @@
+E:\Programme\Uri\C#\1001\1001\bin\Debug\1001.exe.config
+E:\Programme\Uri\C#\1001\1001\bin\Debug\1001.exe
+E:\Programme\Uri\C#\1001\1001\bin\Debug\1001.pdb
+E:\Programme\Uri\C#\1001\1001\obj\Debug\1001.exe
+E:\Programme\Uri\C#\1001\1001\obj\Debug\1001.pdb
